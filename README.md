@@ -2,17 +2,17 @@
 
 A python class with implementations of classic sorting algorithms.
 
-Currently includes: 
+INCLUDES: 
 
-  selection sort   (.selection(some_list))
+  Selection sort   (.selection(some_list))
   
-  insertion sort   (.insertion(some_list))
+  Insertion sort   (.insertion(some_list))
   
-  bubble sort      (.bubble(some_list))
+  Bubble sort      (.bubble(some_list))
   
-  merge sort       (.merge(some_list))
+  Merge sort       (.merge(some_list))
   
-  quick sort       (.quick(some_list))
+  Quick sort       (.quick(some_list))
   
   
   
